@@ -20,9 +20,6 @@ I'm Isaac, a software engineer with a passion for networks, virtualisation and a
 - Networking & Network Programming
 - Python (Networking tools, automation, and scripts galore)
 - Virtualization: libvirt, QEMU, Linux VM orchestration
-- FRRouting (BGP/OSPF setups and dynamic routing magic)
-- Fullstack Web Development: Svelte, FastAPI, PostgreSQL
-- Mentoring & Teamwork
 
 ---
 
@@ -46,6 +43,6 @@ Right now, I’m building a web-based task planner/calendar to improve my fullst
 
 ## 💪 Noteable Achievements
 
-- Beaten Elden Ring base game RL1 Zwei only [Watch the run -> 📺](https://www.youtube.com/playlist?list=PLBvt9A1viBNKcCe3n6sJACcLUt_lRyzDv) One day I'll get around to finishing the DLC...
+- Beaten Elden Ring base game RL1 Zwei only [Watch the run -> 📺](https://www.youtube.com/playlist?list=PLBvt9A1viBNKcCe3n6sJACcLUt_lRyzDv) — One day I'll get around to finishing the DLC...
 
 ---
