@@ -41,7 +41,7 @@ Right now, I’m building a web-based task planner/calendar to improve my fullst
 
 ---
 
-## 💪 Noteable Achievements
+## 💪 Notable Achievements
 
 - Beaten Elden Ring base game RL1 Zwei only [Watch the run -> 📺](https://www.youtube.com/playlist?list=PLBvt9A1viBNKcCe3n6sJACcLUt_lRyzDv) — One day I'll get around to finishing the DLC...
 
