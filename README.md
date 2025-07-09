@@ -25,7 +25,15 @@ I'm Isaac, a software engineer with a passion for networks, virtualisation and a
 
 ## 🌟 Highlight Projects
 
-Right now, I’m building a web-based task planner/calendar to improve my fullstack skills and hopefully allow me to plan my life better.  
+Right now, I'm working on two main side projects. The one I'm most excited for is B.E.P.S.I.S, an automatic backend CLI monitoring tool written in Rust.
+
+**Stack:**
+- Written primarily in Rust
+- Rust orchestrator - B.E.P.S.I.S Prime
+- Python agents to handle Python specific backend applications - B.E.P.S.I.S Agents 
+
+I’m also building a web-based task planner/calendar to improve my fullstack skills and hopefully allow myself to plan my life better called GrindStone.
+
 **Stack:**  
 - Frontend: Svelte  
 - Backend: Python and FastAPI  
